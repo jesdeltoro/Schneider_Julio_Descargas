@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Schneider_Julio_Descargas</string>
+    <string name="descarga_asincrona">Descarga Asincrona</string>
+    <string name="divisas">Divisas</string>
+    <string name="descargar">Descargar</string>
+    <string name="direcci_n_web">Dirección Web</string>
+    <string name="texto_descargado">Texto descargado</string>
+    <string name="los_datos_fueron_grabados_correctamente_en_la_sd">Se grabó correctamente en la Sd</string>
+    <string name="error_al_grabar_en_la_sd">Error al grabar en la sd</string>
+    <string name="schneider_julio_descargas">Schneider_Julio_Descargas</string>
+    <string name="imagen_cargada_desde_la_sd">Imagen cargada desde la SD</string>
+    <string name="ejercicio_1_descarga">Ejercicio 1: Descarga</string>
+</resources>

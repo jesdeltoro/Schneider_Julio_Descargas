@@ -1,0 +1,6 @@
+{
+  "add": [
+    "org.jetbrains.kotlin:kotlin-stdlib:1.9.22"
+  ],
+  "remove": []
+}

@@ -1,0 +1,3 @@
+int bool config_showActionBar 0x7f010000
+int style WhiteBackgroundDialogTheme 0x7f020000
+int style WhiteBackgroundTheme 0x7f020001

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_showActionBar">true</bool>
+    <color name="black">#FF000000</color>
+    <color name="my_light_primary">#FF6200EE</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Schneider_Julio_Descargas</string>
+    <string name="descarga_asincrona">Descarga Asincrona</string>
+    <string name="descargar">Descargar</string>
+    <string name="direcci_n_web">Dirección Web</string>
+    <string name="divisas">Divisas</string>
+    <string name="error_al_grabar_en_la_sd">Error al grabar en la sd</string>
+    <string name="los_datos_fueron_grabados_correctamente_en_la_sd">Se grabó correctamente en la Sd</string>
+    <string name="texto_descargado">Texto descargado</string>
+    <style name="Base.Theme.Schneider_Julio_Descargas" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Schneider_Julio_Descargas" parent="Base.Theme.Schneider_Julio_Descargas"/>
+</resources>
